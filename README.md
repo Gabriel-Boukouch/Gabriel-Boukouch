@@ -1,4 +1,4 @@
-## 🙋🏽‍♂️ Qui suis-je?
+## 🙋🏽‍♂️ Who am I?
 
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/gabriel-boukouch/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:gabriel.boukouch@gmail.com)
@@ -12,7 +12,7 @@ J'ai engagé une reconversion professionnelle via une **formation intensive** au
 J'apprécie beaucoup la **programmation orientée objet PHP**, et j'ai choisi de me spécialiser avec **Symfony** dans le but de travailler en tant que développeur **back-end**. J'ai également une appétence pour le **Javascript** et je me forme seul à **React** pour pouvoir le comprendre et l'utiliser au besoin.
 
 
-## 👨🏽‍💻 Compétences
+## 👨🏽‍💻 Things I code with
 
 <img src="./assets/images/php.png" alt="php" title="php"/>&nbsp;&nbsp;
 <img src="./assets/images/symfony.png" alt="symfony" title="symfony"/>&nbsp;&nbsp;
