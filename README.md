@@ -1,4 +1,4 @@
-## 🙋🏽‍♂️ Quisuis-je?
+## 🙋🏽‍♂️ Qui suis-je?
 
 -----------------
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/gabriel-boukouch/)
